@@ -1,0 +1,20 @@
+C:\Users\P106\source\repos\Diags02\Diags02\bin\Debug\Diags02.exe.config
+C:\Users\P106\source\repos\Diags02\Diags02\bin\Debug\Diags02.exe
+C:\Users\P106\source\repos\Diags02\Diags02\bin\Debug\Diags02.pdb
+C:\Users\P106\source\repos\Diags02\Diags02\obj\Debug\Diags02.csprojResolveAssemblyReference.cache
+C:\Users\P106\source\repos\Diags02\Diags02\obj\Debug\Diags02.Form1.resources
+C:\Users\P106\source\repos\Diags02\Diags02\obj\Debug\Diags02.Properties.Resources.resources
+C:\Users\P106\source\repos\Diags02\Diags02\obj\Debug\Diags02.csproj.GenerateResource.Cache
+C:\Users\P106\source\repos\Diags02\Diags02\obj\Debug\Diags02.csproj.CoreCompileInputs.cache
+C:\Users\P106\source\repos\Diags02\Diags02\obj\Debug\Diags02.exe
+C:\Users\P106\source\repos\Diags02\Diags02\obj\Debug\Diags02.pdb
+C:\Users\myuser\Desktop\C# lesson works\LinqWorks\Diags02\Diags02\Diags02\bin\Debug\Diags02.exe.config
+C:\Users\myuser\Desktop\C# lesson works\LinqWorks\Diags02\Diags02\Diags02\bin\Debug\Diags02.exe
+C:\Users\myuser\Desktop\C# lesson works\LinqWorks\Diags02\Diags02\Diags02\bin\Debug\Diags02.pdb
+C:\Users\myuser\Desktop\C# lesson works\LinqWorks\Diags02\Diags02\Diags02\obj\Debug\Diags02.csprojAssemblyReference.cache
+C:\Users\myuser\Desktop\C# lesson works\LinqWorks\Diags02\Diags02\Diags02\obj\Debug\Diags02.Form1.resources
+C:\Users\myuser\Desktop\C# lesson works\LinqWorks\Diags02\Diags02\Diags02\obj\Debug\Diags02.Properties.Resources.resources
+C:\Users\myuser\Desktop\C# lesson works\LinqWorks\Diags02\Diags02\Diags02\obj\Debug\Diags02.csproj.GenerateResource.cache
+C:\Users\myuser\Desktop\C# lesson works\LinqWorks\Diags02\Diags02\Diags02\obj\Debug\Diags02.csproj.CoreCompileInputs.cache
+C:\Users\myuser\Desktop\C# lesson works\LinqWorks\Diags02\Diags02\Diags02\obj\Debug\Diags02.exe
+C:\Users\myuser\Desktop\C# lesson works\LinqWorks\Diags02\Diags02\Diags02\obj\Debug\Diags02.pdb
